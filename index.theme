@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=aesthetic-nordic-gtk
+Comment=A aesthetic nordic theme for gtk
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=aesthetic-nordic-gtk
+MetacityTheme=aesthetic-nordic-gtk
+IconTheme=aesthetic-nordic-gtk
+CursorTheme=aesthetic-nordic-gtk
+ButtonLayout=close,minimize,maximize:menu
+
